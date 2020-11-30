@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+
+}
+.App-header {
+  background-color: #00d2c5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+.Title{ 
+  font-size: 50px;
+  margin-top :0px;
+  
+}
+.arrow1{
+  width: 50px;
+  margin-left: -200px;
+  margin-top : 10px;
+  
+}
+.arrow6{
+  width: 50px;
+  margin-left: -200px;
+ 
+}
+.arrow2{
+  width: 50px;
+}
+.arrow3{
+  width: 50px;
+  margin-top :-140px;
+  
+}
+.arrow4{
+  width: 50px;
+  margin-left: 200px;
+}
+.arrow5{
+  width: 50px;
+  margin-left: 200px;
+  margin-top : -145px;
+}
+.nama { 
+  font-size: 50px;
+  margin-top : 150px;
+  padding-top: 50px;
+}
+.time { 
+  font-size: 50px;
+  margin-top : -20px;
+  padding-top: 20px;
+}
+button {
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  margin-left: 10px;
+  margin-top: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  color: black;
+}
+.App-link {
+  color: #93b9c4;
+}
+#start{
+  background-color: #c3c3c3;
+  border: 1px solid #c3c3c3;
+}
+#pause{
+  background-color: #c3c3c3;
+  border: 1px solid #c3c3c3;
+}
+#reset{
+    background-color: #ff6a6b;
+    border: 1px solid #ff6a6b;
+}
+#boom{
+  background-color: #00d253;
+}
